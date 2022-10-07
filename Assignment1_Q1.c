@@ -1,0 +1,6 @@
+main()
+{
+printf("welcome");
+getch();
+}
+
